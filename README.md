@@ -125,3 +125,13 @@ Make sure all <tags> are on separate lines with no other text. Do not include ot
 ### If the prompt didn't work, or the filter didn't work, go back to workspace and check your model settings, or switch to a different base model, like Gemma 2 27B
 
 ![](https://github.com/user-attachments/assets/f699d076-de2e-487f-8578-c76ac2080c5e)
+
+---
+
+### ✨ Check out my other project: [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
+
+#### Photo/Video/GIF enlargement and Video frame interpolation using machine learning
+
+#### Supports AMD / Nvidia / Intel GPU
+
+![](https://raw.githubusercontent.com/AaronFeng753/AaronFeng753/main/res/ReadMeCover.png)
