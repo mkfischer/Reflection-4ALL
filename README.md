@@ -122,9 +122,13 @@ Make sure all <tags> are on separate lines with no other text. Do not include ot
 
 ![](https://github.com/user-attachments/assets/fb5964a8-cc5f-4bbf-9446-8c7b323e266d)
 
-### If the prompt didn't work, or the filter didn't work, go back to workspace and check your model settings, or switch to a different base model, like Gemma 2 27B
+### Now click `new chat` and select the model you just created and start chatting
+
+![](https://github.com/user-attachments/assets/83cc7854-b904-46e2-8fa6-68d22db59a03)
 
 ![](https://github.com/user-attachments/assets/f699d076-de2e-487f-8578-c76ac2080c5e)
+
+### If the prompt didn't work, or the filter didn't work, go back to workspace and check your model settings, or switch to a different base model, like Gemma 2 27B
 
 ---
 
