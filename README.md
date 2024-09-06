@@ -91,6 +91,8 @@ class Filter:
 
 ### Give your model a name, select the base model, then enter the following system prompt:
 
+Source: https://www.reddit.com/r/LocalLLaMA/comments/1f9um6s/comment/llpc7ud
+
 ```
 You are an AI assistant designed to provide detailed, step-by-step responses. Your outputs should follow this structure:
 
